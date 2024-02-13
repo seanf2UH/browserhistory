@@ -14,3 +14,25 @@ img {
   float: left;
   margin-right: 10px;
 }
+.left {
+  float: left;
+  width: 300px;
+}
+.right {
+  float: right;
+  width: 300px;
+}
+center {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  display: inline;
+  padding: 10px;
+}
