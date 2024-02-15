@@ -1,5 +1,6 @@
 h1, h2 {
   font-family: Oswald, sans-serif;
+  color:blue;
 }
 body {
   font-family: Open Sans, sans-serif;
@@ -35,4 +36,7 @@ ul {
 li {
   display: inline;
   padding: 10px;
+}
+a.nav-link {
+  color: white;
 }
